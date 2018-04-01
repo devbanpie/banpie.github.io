@@ -28,7 +28,7 @@ categories:
 
 ## 1、下载Free Opener
 
-在浏览器中输入网址「www.freeopener.com」打开网站，点击「Download」下载该软件。
+在浏览器中输入网址「www.freeopener.com」，打开网站后，点击「Download」下载该软件。
 
 [![how-to-use-freeopener-01](http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-use-freeopener-01.jpg)](http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-use-freeopener-01.jpg)
 
