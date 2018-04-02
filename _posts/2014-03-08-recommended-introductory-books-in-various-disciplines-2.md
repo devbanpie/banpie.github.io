@@ -3,7 +3,7 @@ ID: 126
 post_title: >
   果壳网：各学科领域入门书籍推荐
 post_name: >
-  recommended-introductory-books-in-various-disciplines
+  recommended-introductory-books-in-various-disciplines-2
 author: banpie
 post_date: 2014-03-08 19:13:30
 layout: post
